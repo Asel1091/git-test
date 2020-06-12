@@ -1,2 +1,2 @@
-Hello
-Welcome to Github Desktop
+Hello,
+Welcome to Github Desktop!
